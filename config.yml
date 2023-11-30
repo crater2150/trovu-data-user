@@ -2,10 +2,10 @@
 # https://github.com/trovu/trovu.github.io/wiki/Advanced-settings-&-personal-shortcuts#custom-configuration
 namespaces:
 - o
-- en
-- .us
+- de
+- .de
+- sthuebner
 - github: .
-  name: my
-# defaultKeyword: g 
-language: en
-country: us
+defaultKeyword: k
+language: de
+country: de
