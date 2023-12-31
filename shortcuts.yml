@@ -75,3 +75,13 @@ k 1:
   tags:
   - search engine
   - web search
+y 1:
+  url: https://www.youtube.com/results?search_query=<query>
+  title: Youtube
+  tags:
+  - video
+  - youtube
+  examples:
+  - arguments: cartoon
+    description: Youtube search for "cartoon"
+  showOnHome: 400
