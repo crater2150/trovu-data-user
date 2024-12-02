@@ -85,3 +85,13 @@ y 1:
   - arguments: cartoon
     description: Youtube search for "cartoon"
   showOnHome: 400
+mvn 1:
+  url: https://mvnrepository.com/search?q=<query>
+  title: MVNRepository index
+  tags:
+    - java
+    - scala
+    - jvm
+    - maven
+  examples:
+    org.apache: search for apache libraries
