@@ -76,7 +76,7 @@ k 1:
   - search engine
   - web search
 ki 1:
-  url: https://kagi.com/search?q=<searchTerms>
+  url: https://kagi.com/images?q=<searchTerms>
   title: Kagi Image Search
   tags:
   - search engine
