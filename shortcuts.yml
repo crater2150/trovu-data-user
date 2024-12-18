@@ -70,8 +70,14 @@ scaladex 1:
     cats: Search Scaladex Library index for cats and related libraries
     http: Search for HTTP libraries
 k 1:
-  url: ' https://kagi.com/search?q=<searchTerms>'
+  url: https://kagi.com/search?q=<searchTerms>
   title: Kagi Search
+  tags:
+  - search engine
+  - web search
+ki 1:
+  url: https://kagi.com/search?q=<searchTerms>
+  title: Kagi Image Search
   tags:
   - search engine
   - web search
